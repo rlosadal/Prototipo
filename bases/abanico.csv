@@ -1,0 +1,27 @@
+prioridad;Descripcion Codigo Gestion;prioridad;test;Hom Mejor gest;Agrupacion;tipo;DEFINICION
+1;Ya pago;1;1. Ya pago;1. Ya Pago;RPC;1. Agente;DIRECTO
+2;Acuerdo De Pago;2;2. Acuerdo De Pago;2. Acuerdo De Pago;RPC;1. Agente;DIRECTO
+3;Libranza;3;3. Libranza;3. Libranza;RPC;1. Agente;DIRECTO
+4;No hubo acuerdo;4;4. No hubo acuerdo;4. No Hubo Acuerdo;RPC;1. Agente;DIRECTO
+5;Volver a Llamar;5;5. Volver a Llamar;5. Volver A Llamar;RPC;1. Agente;DIRECTO
+6;Mensaje con Tercero;6;6. Mensaje con Tercero;6. Mensaje Con Tercero;WPC;1. Agente;INDIRECTO
+7;Se envia informacion;7;7. Se envia informacion;7. Se Envia Informacion;WPC;1. Agente;DIRECTO
+8;No Contesta;8;8. No Contesta;8. No Contesta;NPC;1. Agente;SIN CONTACTO
+9;Telefono ocupado;9;9. Telefono ocupado;9. Telefono Ocupado;NPC;1. Agente;SIN CONTACTO
+10;Mensaje Voz;10;10. Mensaje Voz;10. Mensaje Voz;NPC;1. Agente;SIN CONTACTO
+11;Cuelga Llamada;11;11. Cuelga Llamada;11. Cuelga Llamada;NPC;1. Agente;DIRECTO
+12;Telefono fuera de servicio;12;12. Telefono fuera de servicio;12. Telefono Fuera De Servicio;NPC;1. Agente;SIN CONTACTO
+13;Mensaje de WhatsApp;13;13. Mensaje de WhatsApp;13. Mensaje De Whatsapp;NPC;1. Agente;DIRECTO
+14;Fallecido;14;14. Fallecido;14. Fallecido;NPC;1. Agente;INDIRECTO
+15;Telefono no pertenece a la persona;15;15. Telefono no pertenece a la persona;15. Telefono No Pertenece A La Persona;NPC;1. Agente;SIN CONTACTO
+16;SMS GESTION DE AGENTE VIRTUAL;16;16. SMS GESTION DE AGENTE VIRTUAL;16. Sms Gestion De Agente Virtual;NPC;2. Maquina;SIN CONTACTO
+17;Mensaje Email;17;17. Mensaje Email;17. Mensaje Email;NPC;2. Maquina;DIRECTO
+18;Interaccion Interrumpida;18;18. Interaccion Interrumpida;18. Interaccion Interrumpida;NPC;2. Maquina;DIRECTO
+19;E-MAIL GESTION DE AGENTE VIRTUAL;19;19. E-MAIL GESTION DE AGENTE VIRTUAL;19. E-Mail Gestion De Agente Virtual;NPC;2. Maquina;SIN CONTACTO
+20;Cierre Por Cumplimiento Parcial Compromiso;20;20. Cierre Por Cumplimiento Parcial Compromiso;20. Cierre Por Cumplimiento Parcial Compromiso;NPC;3. Adminfo;AUTOMATICO
+21;Cierre De Compromiso Por Cumplimiento De Pago;21;21. Cierre De Compromiso Por Cumplimiento De Pago;21. Cierre De Compromiso Por Cumplimiento De Pago;NPC;3. Adminfo;AUTOMATICO
+22;Cierre De Compromiso Por Incumplimiento De Pago;22;22. Cierre De Compromiso Por Incumplimiento De Pago;22. Cierre De Compromiso Por Incumplimiento De Pago;NPC;3. Adminfo;AUTOMATICO
+23;CARTERA PARA COBRO;23;23. CARTERA PARA COBRO;23. Cartera Para Cobro;NPC;3. Adminfo;INDEFINIDO
+24;EMAIL NO EFECTIVO;24;24. EMAIL NO EFECTIVO;24. Email No Efectivo;NPC;3. Adminfo;SIN CONTACTO
+25;RETIRO DE OBLIGACION;25;25. RETIRO DE OBLIGACION;25. Retiro De Obligacion;NPC;3. Adminfo;INDEFINIDO
+26;Tarea Backoffice-Refinanciacion;26;26. Tarea Backoffice-Refinanciacion;26. Tarea Backoffice-Refinanciacion;NPC;3. Adminfo;DIRECTO

@@ -1,0 +1,4 @@
+miembro|edad|cargo|parentesco
+alberto|71|mensajero|padre
+juan|36|data|hermano
+wilson|40|conductor|hermano
